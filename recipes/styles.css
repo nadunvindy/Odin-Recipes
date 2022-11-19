@@ -6,3 +6,13 @@
 .Headers{
     text-decoration: underline;
 }
+
+#Odin-Recipes{
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.Recipes{
+    text-align: center;
+}
